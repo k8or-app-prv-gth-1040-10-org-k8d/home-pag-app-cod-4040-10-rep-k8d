@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>TensorFlow</ShortName>
+  <Description>Search TensorFlow resources.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://www.gstatic.com/devrel-devsite/prod/v8332a5cec2b627575422eb634078b4a9892f3eac6f9006e54b6e9bbf0bfda91f/tensorflow/images/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://www.tensorflow.org/s/results?q={searchTerms}"></Url>
+</OpenSearchDescription>
